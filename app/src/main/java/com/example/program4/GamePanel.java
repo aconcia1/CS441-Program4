@@ -2,7 +2,6 @@ package com.example.program4;
 
 import android.content.Context;
 import android.graphics.Canvas;
-import android.support.annotation.MainThread;
 import android.view.MotionEvent;
 import android.view.SurfaceHolder;
 import android.view.SurfaceView;

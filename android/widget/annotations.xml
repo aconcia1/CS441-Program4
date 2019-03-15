@@ -1,0 +1,5 @@
+<root>
+    <item name='android.widget.ImageView boolean setFrame(int, int, int, int)'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>
